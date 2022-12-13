@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Project\hello\new_folder\bin\Debug\net6.0\new_folder.exe
+C:\Users\user\Desktop\Project\hello\new_folder\bin\Debug\net6.0\new_folder.deps.json
+C:\Users\user\Desktop\Project\hello\new_folder\bin\Debug\net6.0\new_folder.runtimeconfig.json
+C:\Users\user\Desktop\Project\hello\new_folder\bin\Debug\net6.0\new_folder.dll
+C:\Users\user\Desktop\Project\hello\new_folder\bin\Debug\net6.0\new_folder.pdb
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.AssemblyInfo.cs
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.dll
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\refint\new_folder.dll
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.pdb
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\new_folder.genruntimeconfig.cache
+C:\Users\user\Desktop\Project\hello\new_folder\obj\Debug\net6.0\ref\new_folder.dll
